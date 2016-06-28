@@ -12,4 +12,8 @@ purpose is to learn how to use git
 
 ## Deployment
 
+Let's do this..
+
 ## how to contribute
+
+and again...
